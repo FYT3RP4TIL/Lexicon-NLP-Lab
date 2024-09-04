@@ -1,10 +1,10 @@
-# 🌐 NLP Project Repository
+# 🌐 Lexicon-NLP-Lab
 
 ![NLP](https://img.shields.io/badge/NLP-Text_Processing-blue)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-brightgreen)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
 
-Welcome to the **NLP Project Repository**! This repository contains a comprehensive collection of Jupyter notebooks and datasets focused on various Natural Language Processing (NLP) tasks.
+Welcome to the **Lexicon**! This repository contains a comprehensive collection of Jupyter notebooks and datasets focused on various Natural Language Processing (NLP) tasks.
 
 ## 📂 Repository Structure
 
